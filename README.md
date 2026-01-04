@@ -1,152 +1,156 @@
-Agentic Leadership — Repo Structure (v1)
-Top Level
-/
-├── README.md
-├── sessions/
-├── participants/
-└── shared/
+# Agentic Leadership — A Living Repository
 
+This repository is the course.
 
-That’s it.
-No extra ceremony.
+Not a portal.
+Not an LMS.
+Not a collection of readings.
 
-sessions/
+It is a **shared, living workspace** where a cohort of leaders is actively thinking, talking, building, and reflecting together during an unprecedented AI moment.
 
-Where lived time gets captured
+If you’re looking for a polished curriculum, you won’t find one.
+If you’re looking for real leadership in motion, you’re in the right place.
 
-Each session gets a folder.
-Nothing inside is required — only expected.
+---
 
-sessions/
-  session-01/
-  session-02/
-  session-03/
-  session-04/
+## What This Is
 
+This repo is:
+- a shared memory of live conversations
+- a working archive of unfinished ideas
+- a place where AI is used *with* leaders, not *on* them
+- a surface you can query, remix, and build from
 
-Inside a session folder, files may include (not guaranteed):
+Everything here exists so that leadership doesn’t disappear when the meeting ends.
 
-session-01/
-  transcript.md          ← raw full-group transcript
-  phone-calls/           ← raw paired call transcripts
-  slides.md              ← markdown slide deck
-  notes.md               ← live / facilitator notes
-  artifacts/             ← demos, visuals, outputs
+Video is ephemeral.
+This repo is persistent.
 
+---
 
-Rules:
+## How This Works
 
-transcripts are raw
+Our live sessions happen over Zoom / Google Meet.
 
-nothing is cleaned
+Alongside those sessions, we use a **Meeting Twin**:
+an IDE connected directly to this GitHub repository, with AI embedded.
 
-nothing is summarized by default
+That means:
+- raw transcripts are captured
+- notes, slides, and artifacts are created live
+- participants can write directly into the repo
+- AI can reason over the actual material of the cohort
 
-artifacts can be messy
+GitHub is not storage here.
+GitHub is the **thinking substrate**.
 
-order doesn’t matter
+---
 
-Sessions are records, not lessons.
+## What You’ll See Inside
 
-participants/
+This repository will grow unevenly over time.
 
-Where individual thinking lives
+You will find:
+- full, raw transcripts from live sessions
+- transcripts from paired phone conversations
+- slide decks written in Markdown
+- facilitator notes and fragments
+- demos, sketches, and half-built tools
+- participant-submitted work
+- shared language as it emerges
 
-Each participant has a folder.
+Nothing is cleaned up by default.
+Nothing is summarized for you.
+Meaning is something we *pull*, not something we’re given.
 
-participants/
-  alice/
-  bob/
-  charlie/
+---
 
+## Structure (Intentionally Minimal)
 
-Inside, anything goes:
+sessions/ → records of live time (notes, transcripts, slides, artifacts)
+participants/ → one working folder per participant
+shared/ → material that keeps resurfacing across sessions
 
-participants/alice/
-  notes.md
-  pillar-game.md
-  screenshots/
-  drafts/
-  prompts.md
+yaml
+Copy code
 
+This structure is light on purpose.
+If patterns emerge, we’ll structure later.
 
-Rules:
+---
 
-no formatting expectations
+## Participant Ownership
 
-no evaluation
+Each participant has their own folder.
 
-no “right” way
+Use it however you want:
+- notes
+- reflections
+- drafts
+- screenshots
+- prompts
+- things you’re not sure about yet
 
-public by default, unless someone chooses otherwise
+Some participants may also fork this repo to their own GitHub accounts
+to work with sensitive or internal material privately.
 
-These folders are personal working memory.
+That’s encouraged.
 
-shared/
+This space is about **agency**, not compliance.
 
-Things that cut across sessions
+---
 
-This is for material that keeps resurfacing.
+## Using AI With This Repo
 
-shared/
-  references.md      ← links, articles, videos
-  concepts.md        ← words, phrases, language that emerges
-  datasets/           ← any data we reuse
-  demos/              ← shared experiments or tools
+As this repository grows, you should be able to ask questions like:
+- “Given what’s in our sessions, what could I try in my organization right now?”
+- “What patterns show up in how I respond under pressure?”
+- “Who else wrestled with something similar?”
+- “What ideas keep resurfacing?”
 
+The answers should come from *this corpus*:
+our conversations, our work, our uncertainty.
 
-Rules:
+Not generic advice.
 
-nothing here is authoritative
+---
 
-this is a commons, not a canon
+## What This Is Not
 
-duplication is fine
+This is not:
+- a certification
+- a framework library
+- a best-practices guide
+- a polished knowledge base
+- a Google Drive replacement
 
-If something shows up more than once, it probably belongs here.
+If it ever feels like one of those, we’ve missed the point.
 
-What We Are Not Doing (On Purpose)
+---
 
-No rigid templates
+## One Guiding Principle
 
-No deep nesting
+If something represents:
+- real thinking
+- real conversation
+- real uncertainty
+- real work in progress
 
-No tagging systems (yet)
-
-No enforced naming conventions
-
-No summaries replacing raw material
-
-If we need structure later, we’ll add it after patterns emerge.
-
-How This Stays Queryable
-
-This structure works because:
-
-files are small and human-readable
-
-transcripts are intact
-
-authorship is visible
-
-history is preserved
-
-AI can reason across folders without needing schemas
-
-We optimize for search, recall, and pattern detection, not cleanliness.
-
-The Only Rule That Matters
-
-If a file represents:
-
-real thinking
-
-real conversation
-
-real uncertainty
-
-real work in progress
-
-It belongs in this repo.
+It belongs here.
 
 Everything else is negotiable.
+
+---
+
+## A Final Note
+
+This repository is meant to feel unfinished.
+It should change every session.
+It should surprise you.
+
+If you’re unsure where to start:
+open the most recent session folder,
+or your own participant folder,
+and add something honest.
+
+That’s enough.
