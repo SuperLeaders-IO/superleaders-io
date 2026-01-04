@@ -44,9 +44,11 @@ Where individual thinking lives. Each participant has a folder.
 
 ```
 participants/
-  alice/
-  bob/
-  charlie/
+  BM/
+  NL/
+  PH/
+  MC/
+  IRW/
 ```
 
 Inside, anything goes (notes, pillar-game, screenshots, drafts, prompts).
