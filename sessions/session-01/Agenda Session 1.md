@@ -1,14 +1,11 @@
-Here’s **Draft 1 of a 90-minute agenda**, written in the *language of the experience*, not a workshop plan. This assumes:
+Here’s **Draft 1 of a 90-minute agenda**, written in the _language of the
+experience_, not a workshop plan. This assumes:
 
-* Zoom / Meet \= video \+ audio
-
-* **Meeting Twin** \= Google Antigravity IDE connected to GitHub (Gemini inside)
-
-* GitHub \= live memory, not storage
-
-* Emotional honesty \> coverage
-
-* Speed \+ safety \> polish
+- Zoom / Meet = video + audio
+- **Meeting Twin** = Google Antigravity IDE connected to GitHub (Gemini inside)
+- GitHub = live memory, not storage
+- Emotional honesty > coverage
+- Speed + safety > polish
 
 This is intentionally **tight but breathable**.
 
@@ -16,8 +13,8 @@ This is intentionally **tight but breathable**.
 
 # **Agentic Leadership — Session 1**
 
-**Duration:** 90 minutes  
- **Mode:** Zoom (transport) \+ Antigravity IDE (meeting twin) \+ GitHub (memory)
+**Duration:** 90 minutes\
+**Mode:** Zoom (transport) + Antigravity IDE (meeting twin) + GitHub (memory)
 
 ---
 
@@ -25,60 +22,44 @@ This is intentionally **tight but breathable**.
 
 **Purpose:** Set psychological safety and expectation
 
-* Welcome
+- Welcome
+- Explicit framing:
+  - This is not a course to “get right”
+  - This repo will be messy on purpose
+  - We are capturing _how leaders think in motion_
+- Name the tools:
+  - Zoom = voice
+  - Antigravity = shared thinking surface
+  - GitHub = where everything lands
 
-* Explicit framing:
-
-  * This is not a course to “get right”
-
-  * This repo will be messy on purpose
-
-  * We are capturing *how leaders think in motion*
-
-* Name the tools:
-
-  * Zoom \= voice
-
-  * Antigravity \= shared thinking surface
-
-  * GitHub \= where everything lands
-
-Key line to say out loud:  
- “If at any point this feels unfinished, that’s because it is.”
+Key line to say out loud:\
+“If at any point this feels unfinished, that’s because it is.”
 
 ---
 
-## **5–15 min — Fast Introductions: *Where You Are in This AI Moment***
+## **5–15 min — Fast Introductions: _Where You Are in This AI Moment_**
 
 **Purpose:** Surface emotional state without letting it sprawl
 
 **Prompt (spoken, tight):**
 
-* Name:
-
-  * your work / context
-
-  * one place AI feels *challenging*
-
-  * one place you feel like you *shine*
+- Name:
+  - your work / context
+  - one place AI feels _challenging_
+  - one place you feel like you _shine_
 
 Rules:
 
-* 30–45 seconds each
-
-* No explanations
-
-* No backstory
+- 30–45 seconds each
+- No explanations
+- No backstory
 
 **Meeting Twin action (live):**
 
-* Antigravity captures raw transcript
-
-* No summarizing
-
-* No cleaning
-
-* No interpretation
+- Antigravity captures raw transcript
+- No summarizing
+- No cleaning
+- No interpretation
 
 This immediately differentiates the space from a webinar.
 
@@ -88,159 +69,108 @@ This immediately differentiates the space from a webinar.
 
 **Purpose:** Context, not instruction
 
-* \~15 minutes total
+- ~15 minutes total
+- Use fragments from _Unprecedented Leader_:
+  - no playbook
+  - collapse of time
+  - conductivity over control
+- No framework walkthrough
+- No “and therefore you should…”
 
-* Use fragments from *Unprecedented Leader*:
-
-  * no playbook
-
-  * collapse of time
-
-  * conductivity over control
-
-* No framework walkthrough
-
-* No “and therefore you should…”
-
-End with:
-
-“Hold your own reality up against this. See what resonates. See what resists.”
+End with: “Hold your own reality up against this. See what resonates. See what
+resists.”
 
 **Meeting Twin:**
 
-* Slides live as markdown
-
-* Visuals generated if helpful
-
-* Everything synced to GitHub as-is
+- Slides live as markdown
+- Visuals generated if helpful
+- Everything synced to GitHub as-is
 
 ---
 
-## **25–55 min — Agentic Organizations (Franco)**
+## **25–45 min — Agentic Organizations (The Silent Meeting Layer)**
 
-**Purpose:** Expand the horizon
+**Purpose:** Move from "Listening" to "Co-Processing" (80/20 Rule)
 
-* \~30 minutes
+**1. The Provocation (5 min)**
 
-* Franco shares:
+- Franco drops the core thesis:
+  - "AI isn't a tool; it's a new layer of agency."
+  - "The org chart is dead; the network is the unit."
 
-  * his vision of agentic organizations
+**2. Parallel Processing (5 min)**
 
-  * how work reorganizes when AI becomes infrastructure
+- **Stop talking.**
+- Everyone opens `participants/[Name]/session-01-notes.md`.
+- **Prompt:** "Where is 'agency' currently blocked in your system? Name the
+  blocker."
+- Everyone writes simultaneously. The Repo is alive.
 
-* This is *provocative*, not instructional
+**3. The Harvest (10 min)**
 
-Encourage:
-
-* disagreement
-
-* questions
-
-* discomfort
-
-**Meeting Twin:**
-
-* Full transcript captured
-
-* No live synthesis
-
-* No “key takeaways”
-
-This becomes reference material later.
+- We read 2-3 other people's commits (via Network graph or file browse).
+- Facilitator (Harvester) calls out patterns:
+  - "I see [Name] and [Name] both mentioned 'Middle Management Fear'. Let's
+    start there."
+- Discussion is now grounded in _their_ reality, not the lecture.
 
 ---
 
-## **55–65 min — Break Pattern: Phone Calls**
+## **45–55 min — Break Pattern: Phone Calls**
 
 **Purpose:** Shift cognitive and emotional mode
 
-* Randomly pair participants
+- Randomly pair participants.
+- Everyone **leaves Zoom**.
+- They call each other on the phone (10 mins).
 
-* Everyone **leaves Zoom**
+**Loose direction:**
 
-* They call each other on the phone
-
-* 10 minutes total
-
-**Loose direction (not a script):**
-
-* Where does this AI moment feel hardest right now?
-
-* Where do you feel more capable than you expected?
-
-* What are you holding that hasn’t had a place yet?
-
-**Important:**
-
-* This is voice-only
-
-* No notes required during the call
-
-* Just be present
+- "Say the thing you didn't write down."
 
 ---
 
-## **65–75 min — Return & Drop One Sentence**
+## **55–65 min — Return & Drop One Sentence**
 
-**Purpose:** Capture resonance, not summary
+**Purpose:** Capture resonance
 
 Back in Zoom.
 
-Each participant:
-
-* Drops **one sentence** into their GitHub folder (or shared space):
-
-“After that call, the thing I can’t stop thinking about is \_\_\_.”
-
-No discussion yet.  
- Just capture.
-
-**Meeting Twin:**
-
-* Phone call transcripts uploaded raw
-
-* One-sentence reflections committed
-
-This is a key memory artifact.
+- Drop **one sentence** into your folder based on the call.
+- "After that call, the truth I'm holding is..."
 
 ---
 
-## **75–88 min — Pillar Game (Emotion-First, Paired)**
+## **65–85 min — The Judgment Game: Hiring the Unverifiable**
 
-**Purpose:** Self-diagnostic through play
+**Purpose:** Practice "Epistemological Humility" & The Clarity Framework
 
-* Re-pair participants (can be same or different)
+**1. The Setup (2 min)**
 
-* Each pair gets **one pillar scenario**
+- Pair up:
+  - **Person A:** The Non-Technical CEO (You have a $10M budget).
+  - **Person B:** The AI Architect Candidate (You are pitching a "Autonomous
+    Agent Swarm").
 
-* Time-boxed, low stakes
+**2. The Interview (10 min)**
 
-Framing:
+- **CEO's Goal:** Do not get dazzled by jargon. Use the **Clarity Framework**
+  (from `shared/concepts.md`) to test judgment.
+  - _Ask:_ "Explain it like I'm 5."
+  - _Ask:_ "What will go wrong?"
+  - _Ask:_ "What did you choose NOT to build?"
+- **Candidate's Goal:** Be convincing. (Bonus: Be slightly evasive).
 
-* Zero evaluation
+**3. The Decision (8 min)**
 
-* No polish
+- Stop talking.
+- **CEO Action:** Commit a file to `participants/[Name]/hiring-decision.md`.
+  - _Verdict:_ Hire / No Hire.
+  - _Reasoning:_ "I passed on them because they couldn't explain the trade-off."
+- **Candidate Action:** Commit a reflection.
+  - "I felt [Name] catch me when I tried to bullshit."
 
-* Notice what shows up emotionally
-
-They work inside:
-
-* Antigravity IDE
-
-* Their own GitHub folders
-
-They capture:
-
-* what they did first
-
-* what felt hardest
-
-* what they avoided
-
-**Optional:**  
- Run the friendly roast bot on their rough output.
-
-Laughter is a feature.
+**Optional:** Run the Roast Bot on the Hiring Decisions.
 
 ---
 
@@ -248,39 +178,27 @@ Laughter is a feature.
 
 **Purpose:** Keep the door open
 
-You close with something like:
+You close with something like: “Nothing here is finished.\
+Between now and next time, feel free to ask the repo questions.\
+This space will get smarter as you use it.”
 
-“Nothing here is finished.  
- Between now and next time, feel free to ask the repo questions.  
- This space will get smarter as you use it.”
+No homework.\
+No next steps list.
 
-No homework.  
- No next steps list.
-
-Just:
-
-“We’ve started.”
+Just: “We’ve started.”
 
 ---
 
 ## **What Exists in GitHub After Session 1 (by design)**
 
-* Full raw Zoom transcript
+- Full raw Zoom transcript
+- Raw phone call transcripts
+- Participant folders with:
+  - one-sentence reflections
+  - rough pillar game artifacts
+  - roast bot outputs (if used)
+- Slides as markdown
+- No synthesis yet
 
-* Raw phone call transcripts
-
-* Participant folders with:
-
-  * one-sentence reflections
-
-  * rough pillar game artifacts
-
-  * roast bot outputs (if used)
-
-* Slides as markdown
-
-* No synthesis yet
-
-This is **not a summary**.  
- It’s a **dataset**.
-
+This is **not a summary**.\
+It’s a **dataset**.
