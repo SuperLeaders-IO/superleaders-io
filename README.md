@@ -56,12 +56,6 @@ Every session has a `questions/` folder with three buckets:
 You can't. History is saved forever. If you delete the whole thing by accident,
 we can just undo it. **Be fearless.**
 
-### 5. Fearlessness
-
-- You cannot break this.
-- Git remembers everything. If you delete a file, we can restore it.
-- Treat this as a safe harbor for dangerous ideas.
-
 ---
 
 ## One Rule
