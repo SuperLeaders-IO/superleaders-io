@@ -93,7 +93,8 @@ Use these prompts to evaluate thinking skills directly.
 | **Verification:** Rigorous QA process.               | **No QA:** Blind trust in generation.        |
 
 ---
-
+Q6
+What questions do you think would need to be asked and why?
 ### III. Competency Mapping
 
 Stop listening for keywords. Map answers to these leadership patterns:
