@@ -1,20 +1,18 @@
-# Professional Summary: Dr. Pam Holt (P. Pamela Holt, Ed.D.)
+# Professional Summary: Pam Holt
 
 ## Overview
-Dr. Pam Holt is a respected leader in online education and curriculum design, currently serving as the Dean of Online Learning at Milwaukee Area Technical College (MATC). With a unique background spanning Information Technology and Education, she brings a data-driven and technological perspective to curriculum leadership. She is recognized for driving innovation and continuous quality improvement in distance learning.
+Pam Holt is the Chief Executive Officer of Empathetics, Inc., a role she has held since March 2024. She is a registered nurse with over 25 years of extensive experience in healthcare and leadership. As CEO, she guides Empathetics in providing evidence-based empathy and communication skills training to the healthcare sector, focusing on improving clinician well-being, retention, and patient care.
 
 ## Key Roles & Experience
-*   **Dean of Online Learning, Milwaukee Area Technical College (MATC):** Leading initiatives in innovation and quality improvement for online education.
-*   **Manager of Curriculum and Instructional Design, Medical College of Wisconsin:** Spearheaded significant curricular changes and instructional design efforts.
-*   **Program Manager, Distance Learning, Aurora Health Care:** Managed the development of a distance learning program engaging over 35,000 learners across 145 clinics and 13 hospitals.
-*   **Information Technology:** Extensive prior career in IT before transitioning to educational leadership.
+*   **CEO, Empathetics, Inc.:** Leads the company to drive innovation, expand market presence, and enhance empathic communication in healthcare.
+*   **Healthcare Leadership:** Over 25 years of experience bridging healthcare and technology to solve critical industry challenges.
+*   **Registered Nurse:** Brings a clinical perspective to leadership and organizational development.
 
-## Achievements & Recognition
-*   **Thought Leadership:** Presenter at national conferences, including the Central Group on Educational Affairs and the International Association of Medical Science Educators.
-*   **Program Scale:** Successfully implemented large-scale distance learning solutions for healthcare networks.
+## Expertise & Focus Areas
+*   **Empathy Training:** Championing evidence-based techniques to improve team dynamics and patient outcomes.
+*   **Clinician Well-being:** Addressing burnout and retention by integrating empathy as a core competency.
+*   **Organizational Leadership:** Guiding companies through the evolving landscape of healthcare technology.
 
 ## Education
-*   **Ed.D. in Curriculum, Teaching, Learning, and Leadership:** Northeastern University.
-*   **Master's in Educational Technology (MET):** Boise State University.
-*   **Master's Certificate in On-Line Learning for Adults.**
-*   **B.A. in Management of Informational Technology:** Cardinal Stritch University.
+*   **Master's in Organizational Leadership:** Evangel University.
+*   **Bachelor of Science in Nursing:** Southwest Baptist University.
