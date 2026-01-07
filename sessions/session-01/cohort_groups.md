@@ -50,22 +50,4 @@ Bryan brings deep experience in **Sustainable Integration** and partnerships. Ku
 >
 > **Question:** Most new initiatives fail because the 'host organism' rejects them. **How do we design an 'Integration Strategy' for Kunal and Franco's ideas that ensures long-term adoption rather than a quick flash and burnout?** What specific lessons from Bryan's partnership work apply here?"
 >
-> phone numbers:
 > 
-> Bryan McCorkle (Jan 6, 2026, 5:41 PM)
-516-521-7692
- 
-Nicole Long (Jan 6, 2026, 5:41 PM)
-404-403-6378
- 
-Iranetta Wright (Jan 6, 2026, 5:41 PM)
-904-662-1379
- 
-Pam (Jan 6, 2026, 5:41 PM)
-347-480-2997
- 
-Franco (Jan 6, 2026, 5:41 PM)
-212-814-3227
- 
-Dr. Michael Conner (Jan 6, 2026, 5:42 PM)
-203.675.7186
