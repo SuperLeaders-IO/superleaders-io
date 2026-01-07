@@ -1,7 +1,7 @@
-# Professional Summary: Brian McCorkle
+# Professional Summary: Bryan McCorkle
 
 ## Overview
-Brian McCorkle is an accomplished executive with over 15 years of diverse experience, currently serving as the Vice President of Partnerships at Amira Learning. He is dedicated to the sustainable integration of technology in education and is passionate about empowering individuals to drive positive change in their communities. His career reflects a strong commitment to equipping educators with the resources needed to adapt to the evolving landscape of educational technology.
+Bryan McCorkle is an accomplished executive with over 15 years of diverse experience, currently serving as the Vice President of Partnerships at Amira Learning. He is dedicated to the sustainable integration of technology in education and is passionate about empowering individuals to drive positive change in their communities. His career reflects a strong commitment to equipping educators with the resources needed to adapt to the evolving landscape of educational technology.
 
 ## Key Roles & Experience
 *   **VP of Partnerships, Amira Learning:** Leading partnerships to advance intelligent reading tutoring solutions.
